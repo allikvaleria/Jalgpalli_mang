@@ -1,8 +1,8 @@
-﻿using Jalgpalli_mäng;
+﻿
 using System;
 using System.Collections.Generic;
 
-namespace Jalgpalli_mang
+namespace Football
 {
     public class Team
     {

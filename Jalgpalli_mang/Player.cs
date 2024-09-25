@@ -1,11 +1,11 @@
-﻿using Jalgpalli_mang;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jalgpalli_mäng
+namespace Football
 {
     //Loome mängijale klassi. (Создаем класс для игрока)
     public class Player
